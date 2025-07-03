@@ -2,7 +2,7 @@
 
 ### 🐸 About Me
 <p align="justify">
-Hello all! I’m <b>Erlin Shofiana</b> —  or you can call me Erlin for short. I'm a third-year Statistics student at <b>Universitas Gadjah Mada</b>, deeply passionate about statistics, data science, and machine learning.  
+Hello all! I’m <b>Erlin Shofiana</b> — or you can call me Erlin for short. I'm a third-year Statistics student at <b>Universitas Gadjah Mada</b>, deeply passionate about statistics, data science, and machine learning.  
 As a statistics student, I love diving into data and always strive to extract meaningful insights from it.
 
 Through this profile, I’m excited to share my journey — from college projects to data competitions — where I explore various ways to tackle real-world datasets.  
@@ -16,6 +16,10 @@ I hope to keep learning, growing, and contributing in the data community!
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" alt="Excel" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="Tableau" width="80" height="40"/>
 </p>
+
+### 📊 Check Out My Tableau Projects
+Feel free to explore my dashboards and data visualizations on Tableau Public:  
+🔗 [Tableau Public - Erlin Shofiana](https://public.tableau.com/app/profile/erlin.shofiana/vizzes)
 
 ### 🚀 How To Reach Me
 <p align="left"> 
