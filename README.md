@@ -18,7 +18,8 @@ I hope to keep learning, growing, and contributing in the data community!
 </p>
 
 ### 📊 Check Out My Tableau Projects
-Feel free to explore my dashboards and data visualizations:  
+Feel free to explore my dashboards and data visualizations: 
+🔗 [Summary - Notion](https://www.notion.so/Data-Visualization-Portfolio-Erlin-Shofiana-3094bdbe47f3809a86fbf7e852589946)
 🔗 [Tableau Public - Erlin Shofiana](https://public.tableau.com/app/profile/erlin.shofiana/vizzes)
 🔗 [Power BI - Erlin Shofiana](https://app.powerbi.com/view?r=eyJrIjoiZDJkNjMwYjAtZWM3Yy00ZWY5LWJkZjAtNjQ5N2Y4OGUwOGM5IiwidCI6ImFmMmMwNzM0LWNiNDItNDY0Zi1iNmJmLTJhMjQxYjZhZGE1NiIsImMiOjEwfQ%3D%3D)
 ### 🚀 How To Reach Me
